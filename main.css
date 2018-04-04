@@ -1,0 +1,29 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: rgba(0,0,0, .5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5rem;
+	background: linear-gradient(to right, #0000cc, #000033);
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 3.5rem;
+	width: 100%;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 1rem;
+	text-transform: none;
+	letter-spacing: .1rem;
+}
+
+button {
+	background: red;
+	color: white;
+	border: none;
+	font-size: 1rem;
+	padding: 10px 20px;
+}
